@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Users\aaron\source\repos\DSA\LAB3 - Group Mini Project\Header.h(18,9): warning C4101: 'ymax': unreferenced local variable
+D:\Users\aaron\source\repos\DSA\LAB3 - Group Mini Project\Header.h(17,9): warning C4101: 'xmax': unreferenced local variable
+D:\Users\aaron\source\repos\DSA\LAB3 - Group Mini Project\Header.h(71,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LAB3 - Group Mini Project.vcxproj -> D:\Users\aaron\source\repos\DSA\LAB3 - Group Mini Project\x64\Debug\LAB3 - Group Mini Project.exe
